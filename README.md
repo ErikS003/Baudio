@@ -3,7 +3,7 @@
 This project uses **machine learning and audio analysis** to predict whether the queen of a beehive is present based on **sound recordings**. 
 Bees produce distinctive sounds depending on the hive’s state. The presence (or absence) of the queen can be inferred by analyzing these sounds.  
 
-This project leverages a machine learning (ML) model trained on existing beehive audio datasets to make binary predictions:
+This project leverages a machine learning model trained on existing beehive audio datasets to make binary predictions:
 - **1 → Queen present**  
 - **0 → Queen absent**  
 
